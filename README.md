@@ -1,4 +1,4 @@
-# 📘 MatchaBook
+# 📘 MatchABook
 
 **MatchaBook** is an AI-powered sentiment and trend analysis tool focused on books. It collects data from social media platforms like Reddit to analyze what readers are saying — helping uncover book trends, emotional reactions, and genre popularity over time.
 
