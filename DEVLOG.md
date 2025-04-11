@@ -12,3 +12,5 @@
 💾 Successfully saved Reddit data to local DB
 
 ✅ Cleaned repo and pushed first commit to GitHub
+
+______________________________________________________________________________________
